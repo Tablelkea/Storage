@@ -1,0 +1,10 @@
+name: ElesiaStorage
+version: '1.0'
+main: org.elesia.elesiastorage.ElesiaStorage
+api-version: '1.21'
+prefix: ElesiaStorage
+authors: [ TableIkea_ ]
+website: https://github.com/Tablelkea
+description: ">   Plugin de stockage personnalisé pour Paper 1.21.8. 
+  Chaque joueur dispose d’un coffre unique connecté à une base de données, 
+  permettant de déposer et récupérer ses items via une commande simple."
